@@ -1,9 +1,9 @@
 package web
 
 import (
-	"git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra"
+	"github.com/Kinggo/infra/base"
 	"github.com/kataras/iris"
 	"github.com/sirupsen/logrus"
 )

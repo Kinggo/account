@@ -1,4 +1,4 @@
-module git.imooc.com/wendell1000/account
+module github.com/Kinggo/account
 
 go 1.12
 
@@ -27,7 +27,7 @@ replace (
 )
 
 require (
-	git.imooc.com/wendell1000/infra v0.1.1
+	github.com/Kinggo/infra v0.0.2
 	github.com/kataras/iris v11.1.1+incompatible
 	github.com/segmentio/ksuid v1.0.2
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24

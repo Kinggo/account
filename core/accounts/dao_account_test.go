@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"database/sql"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"

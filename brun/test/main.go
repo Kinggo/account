@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"git.imooc.com/wendell1000/account/services"
+	"github.com/Kinggo/account/services"
 )
 
 func main() {

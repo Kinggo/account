@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"database/sql"
-	"git.imooc.com/wendell1000/account/services"
+	"github.com/Kinggo/account/services"
 	"github.com/shopspring/decimal"
 	"time"
 )

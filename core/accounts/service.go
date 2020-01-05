@@ -2,8 +2,8 @@ package accounts
 
 import (
 	"fmt"
-	"git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra/base"
 	"github.com/kataras/iris/core/errors"
 	"github.com/shopspring/decimal"
 	"sync"

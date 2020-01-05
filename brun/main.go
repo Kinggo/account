@@ -1,9 +1,9 @@
 package main
 
 import (
-	_ "git.imooc.com/wendell1000/account"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
+	_ "github.com/Kinggo/account"
+	"github.com/Kinggo/infra"
+	"github.com/Kinggo/infra/base"
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
 )

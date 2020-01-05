@@ -1,7 +1,7 @@
 package accounts
 
 import (
-	"git.imooc.com/wendell1000/account/services"
+	"github.com/Kinggo/account/services"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"

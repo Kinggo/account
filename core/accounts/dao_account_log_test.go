@@ -1,8 +1,8 @@
 package accounts
 
 import (
-	"git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
